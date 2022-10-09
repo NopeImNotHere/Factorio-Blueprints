@@ -6,6 +6,8 @@ All the Factorio Blueprints that I've wanted to make public, See License File
 1. Everybody is free to use it in whatever sense they like to
 2. I still have control over mentioning the Author and copyright Issues in how I see fit
 
+---
+
 ### Blueprint List
 
 | Blueprint Name | Current Tested Version | Extra Stipulations |
