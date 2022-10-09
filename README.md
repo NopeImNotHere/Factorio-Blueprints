@@ -21,3 +21,7 @@ All the Factorio Blueprints that I've wanted to make public, See License File
 >   and determine if it has been Tested to the best of anyone ability's,  
 >   Testers will be marked down with the Link given to the respective Branch of the Version  
 
+---
+For anybody asking how do you do Markdown(.md) Files here's a [Cheatsheet][1]
+
+[1]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
