@@ -14,11 +14,11 @@ See License File
 
 | Blueprint Name | Current Tested Version | Extra Stipulations |
 | -------------- | ---------------------- | ------------------ |
-| [SE Cookbook](SE%20Cookbook) | **Factorio _1.1_ SE _0.6_** | - |
+| [SE Cookbook](SE%20Cookbook.txt) | **Factorio _1.1_ SE _0.6_** | - |
 | [Train Supply Manager](TSM%20Circuit%20Cookbook.txt) | **Factorio _1.1_ TSM _1.1_** | - |
 | [Vanilla Tileable Miners](Tileable%20Miners.txt) | **Factorio _1.1_** | - |
 | [Vanilla Tileable Wall](Wall%20Blueprint%20Book.txt) | **Factorio _1.1_** | - |
-| [Industrial Revolution 2 Blueprint Book](Industrial%20Revolution%202) | **Factorio _1.1_ IR2 _2.3.2_** | - |
+| [Industrial Revolution 2 Blueprint Book](Industrial%20Revolution%202.txt) | **Factorio _1.1_ IR2 _2.3.2_** | - |
 | [Nullius Cookbook](Nullius.txt) |**Factorio _1.1_ Nullius _1.5.13_** | - |
 
 
