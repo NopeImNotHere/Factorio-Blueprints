@@ -1,6 +1,6 @@
 # Factorio-Blueprints
-All the Factorio Blueprints that I've wanted to make public,
-These are the the Blueprints that I've created over the current playtime of 630 Hours (Steam)
+All the Factorio Blueprints that I've wanted to make public,  
+These are the the Blueprints that I've created over the current playtime of 630 Hours (Steam)  
 See License File
 
 ## Why an MIT License ?
